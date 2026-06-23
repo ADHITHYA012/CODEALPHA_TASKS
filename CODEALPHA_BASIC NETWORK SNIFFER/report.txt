@@ -1,0 +1,23 @@
+BASIC NETWORK SNIFFER REPORT
+
+Objective:
+To capture and analyze network packets using Python.
+
+Tool Used:
+- Python
+- Scapy Library
+
+Features:
+- Captures live network packets
+- Displays Source IP Address
+- Displays Destination IP Address
+- Displays Protocol Information
+- Displays Packet Payload
+
+Learning Outcomes:
+- Understanding packet structures
+- Learning TCP/IP communication
+- Network traffic monitoring basics
+
+Conclusion:
+The project successfully captures and analyzes network packets in real time.
